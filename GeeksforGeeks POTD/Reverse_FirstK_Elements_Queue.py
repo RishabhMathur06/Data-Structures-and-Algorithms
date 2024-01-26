@@ -2,6 +2,7 @@
     Name: Rishabh Mathur
     Date: 12 JAN, 2024
 '''
+
 class RevFirKEleQue:
     def reverseKQ(self, q, k, n):
         x = 0
