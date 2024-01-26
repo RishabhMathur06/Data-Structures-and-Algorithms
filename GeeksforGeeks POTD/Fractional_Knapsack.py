@@ -1,4 +1,7 @@
-#User function Template for python3
+'''
+    DATE: 26 Jan, 2024
+    NAME: Rishabh Mathur
+'''
 
 class Item:
     def __init__(self,val,w):
@@ -35,8 +38,6 @@ class Solution:
 import atexit
 import io
 import sys
-
-#Contributed by : Nagendra Jha
 
 class Item:
     def __init__(self,val,w):
