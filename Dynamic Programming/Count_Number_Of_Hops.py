@@ -27,7 +27,7 @@ import atexit
 import io
 import sys
 sys.setrecursionlimit(10**6)
-# Contributed by : Nagendra Jha
+
 
 if __name__ == '__main__':
     test_cases = int(input())
