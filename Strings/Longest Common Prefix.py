@@ -1,3 +1,8 @@
+'''
+    Name: Rishabh Mathur
+    Date: 15th Feb, 2024
+'''
+
 class Solution:
     def lcp(self, arr):
         n = len(arr)
