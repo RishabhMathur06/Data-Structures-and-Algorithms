@@ -2,7 +2,6 @@
     Date: 13 Feb, 2024
     Name: Rishabh Mathur
 '''
-
 class Solution:
     def next_permutation(x):
             ind=-1
