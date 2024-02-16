@@ -22,6 +22,7 @@ if __name__=='__main__':
     t = int(input())
     for i in range(t):
         a,b=map(str,input().strip().split())
+        
         if(Solution().isAnagram(a,b)):
             print("YES")
         else:
