@@ -1,4 +1,7 @@
-#User function Template for python3
+'''
+    Name: Rishabh Mathur
+    Date: 1 Feb, 2024
+'''
 
 class Solution:
     #Function to count the number of ways in which frog can reach the top.
