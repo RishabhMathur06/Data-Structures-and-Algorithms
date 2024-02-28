@@ -1,6 +1,6 @@
 '''
-    Date: 10th Feb, 2024
     Name: Rishabh Mathur
+    Date: 10th Feb, 2024
 '''
 
 class Solution:
