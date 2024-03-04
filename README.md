@@ -7,9 +7,9 @@ My current DSA & Problem-Solving rank on GeeksforGeeks is in top 20 out of 5000+
 
 I have solved:-
 
-  1. 100+ Easy
+  1. 120+ Easy
   2. 150+ Medium
-  3. 20+ Hard
+  3. 25+ Hard
 
 level questions related to Data Structures and Algorithms, which involves topics related to: Arrays, Strings, LinkedList, Stacks, Queues, Hashmaps, Trees, Graphs, Dynamic Programming, Two-Pointers, Sliding Window, Backtracking, Recursion and much more.
 
