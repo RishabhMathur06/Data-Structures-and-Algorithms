@@ -1,4 +1,6 @@
-#User function Template for python3
+'''
+	Name: Rishabh Mathur
+'''
 
 class Solution:
 	def swapElements(self, arr, n):
@@ -7,11 +9,6 @@ class Solution:
             arr[i+2], arr[i] = arr[i], arr[i+2]
             
         return arr
-
-#{ 
- # Driver Code Starts
-
-#Initial Template for Python 3
 		
 if __name__ == '__main__':
     T=int(input())
