@@ -3,7 +3,7 @@ This repository contains all the answers of questions, related to Data Structure
 
 Link: https://auth.geeksforgeeks.org/user/rishabhmathur612
 
-My current DSA & Problem-Solving rank on GeeksforGeeks is in top 30 out of 5000+ students, registered from my University.
+My current DSA & Problem-Solving rank on GeeksforGeeks is in top 20 out of 5000+ students, registered from my University.
 
 I have solved:-
 
