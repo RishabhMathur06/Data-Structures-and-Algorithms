@@ -1,8 +1,6 @@
 '''
-class node:
-    def __init__(self):
-        self.data = None
-        self.next = None
+    Name: Rishabh Mathur
+    Date: 9 Mar, 2024
 '''
 
 def delNode(head, k):
