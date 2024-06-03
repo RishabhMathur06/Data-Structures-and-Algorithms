@@ -2,7 +2,6 @@
     Name: Rishabh Mathur
     Date: 3 Jun, 2024
 '''
-
 class Solution:
     def areIsomorphic(self,str1,str2):
         len1, len2 = len(str1), len(str2)
