@@ -7,8 +7,8 @@ My current DSA & Problem-Solving rank on GeeksforGeeks is in top 20 out of 5000+
 
 I have solved:-
 
-  1. 130+ Easy
-  2. 150+ Medium
+  1. 150+ Easy
+  2. 170+ Medium
   3. 25+ Hard
 
 level questions related to Data Structures and Algorithms, which involves topics related to: 
