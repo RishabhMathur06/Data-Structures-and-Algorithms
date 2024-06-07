@@ -29,8 +29,10 @@ Recursion
 
 and much more.
 
-(Data as of: 14 April, 2024)
+(Data as of: 7 June, 2024)
+<img width="1231" alt="Screenshot 2024-06-07 at 10 45 11 PM" src="https://github.com/RishabhMathur06/Data-Structures-and-Algorithms/assets/107912515/394db8ac-3b38-4390-92b4-ef114d2ca414">
 
-<img width="1224" alt="Screenshot 2024-04-14 at 4 14 48 PM" src="https://github.com/RishabhMathur06/Data-Structures-and-Algorithms/assets/107912515/f520c9bd-37a8-4bbf-9df8-e9141889bc54">
+
+
 
 
